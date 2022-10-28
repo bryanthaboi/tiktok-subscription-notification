@@ -19,6 +19,7 @@ Again, this is just a workaround, temporary until TT allows us to get sub info d
 5. Enter `npm i` to install all required dependencies
 6. Install [tampermonkey extension for chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 7. Install the user script to tampermonkey by [clicking here](https://github.com/bryanthaboi/tiktok-subscription-notification/raw/main/Subscription%20Socket.user.js)
+8. Install [always active window extension](https://chrome.google.com/webstore/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj/related?hl=en) so the page can keep refreshing
 
 ## Add source to OBS (also one time)
 1. Add to your scene a browser source with the URL: http://localhost:8085
