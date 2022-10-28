@@ -29,7 +29,7 @@ Again, this is just a workaround, temporary until TT allows us to get sub info d
 1. If you dont still have powershell/terminal open, reopen it in the same place 
 2. Enter `node server.js`
 3. In chrome, go to https://livecenter.tiktok.com/subscription/my_subscription
-    - Leave this window open on your computer
+    - You can minimize this window now if you have the always active extension installed
     - Might need to stay visible or be the active tab in the browser
 
 ## Steps for success in future after all this setup
